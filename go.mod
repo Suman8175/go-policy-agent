@@ -1,4 +1,4 @@
-module go-policy-agent
+module github.com/Suman8175/go-policy-agent
 
 go 1.24
 
